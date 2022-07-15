@@ -1,9 +1,5 @@
 name: gitartwork from a contribution graph
 on: 
-  push:
-    branches:
-      - main
-  pull_request:
   workflow_dispatch:  
 jobs:
   build:
