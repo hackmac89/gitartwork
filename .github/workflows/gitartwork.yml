@@ -10,5 +10,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: hackmac89
-           text: hackmac89
+           text: Jeffo
       - uses: jasineri/simple-push-action@v1
